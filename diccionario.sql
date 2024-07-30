@@ -1,5 +1,5 @@
 INSERT INTO nombreTabla ( nombreTupla, significadoTupla) VALUES
-/* A a */
+/* a - abreviar */
 ('a', 'Primer letra del abecedario castellano. // Vocal. // Preposición que indica dirección.'),
 ('A','simbolo de amperio'),
 ('ábaco','m. Aparato que sirve para contar.'),
@@ -50,5 +50,17 @@ INSERT INTO nombreTabla ( nombreTupla, significadoTupla) VALUES
 ('abrazar','tr. y r. Ceñir con los brazos.'),
 ('abrazo','m. Acción de abrazar.'),
 ('abrevadero','m. Sitio donde bebe el ganado.'),
-('abreviar','tr. Acortar.')
+('abreviar','tr. Acortar.'),
+
+/* abreviatura - acéfalo*/
+('abreviatura','f. Representción de una palabra con supresión de letras.'),
+('abrigar',' tr. y r. Resguardar del frío.'),
+('abrigo','m. Defensa contra el frío, el viento etc. // Prenda externa de vestir.'),
+('abril','s. Cuarto mes del año.'),
+('abrir','tr. y r. Dar paso en lo cerrado. // Inagurar. // Destapar.'),
+('abrochar','tr. Asegurar con botones o broches.'),
+('abrogar','tr. Abolir, anular.'),
+('abrojo','m. Planta de fruto espinoso.'),
+('abrumar','tr. y r. Agobiar. // causar pena o cansancio.'),
+('abrupto, ta','adj. Escarpado.'),
 ;
