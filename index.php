@@ -50,7 +50,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; background-color: #f4f6f8; color: #2b2b2b;">
 
     <div style="max-width: 600px; margin: 40px auto; background-color: #ffffff; padding: 30px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border: 1px solid #d3d3d3;">
-        <h2 style="text-align: center; color: #1c2e4a; margin-bottom: 25px;">Registro de Términos del Diccionario</h2>
+        <h2 style="text-align: center; color: #1c2e4a; margin-bottom: 25px;">Registro de términos del diccionario</h2>
 
         <?php if (isset($mensaje)): ?>
             <p style="text-align:center; font-weight: bold; color: <?php echo (strpos($mensaje, '✅') !== false) ? '#2e7d32' : '#c62828'; ?>;">
