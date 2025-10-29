@@ -82,12 +82,12 @@ El sistema guardará los datos en el archivo `diccionario.json`.
 ```json
 [
  {
-     "palabra": "ábaco",
+     "palabra": "ábaco.",
      "abreviatura": "m.",
      "descripcion": "Aparato que sirve para contar."
  },
  {
-     "palabra": "abad",
+     "palabra": "abad.",
      "abreviatura": "m.",
      "descripcion": "Superior de un monasterio."
  }
