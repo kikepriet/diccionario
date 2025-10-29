@@ -16,6 +16,7 @@ El propósito es facilitar la recopilación y organización de información (pal
 - Diseño **formal, responsivo y minimalista**, con **CSS inline**.
 - Manejo automático del archivo JSON (se crea si no existe).
 - Mensajes de confirmación o advertencia tras enviar el formulario.
+- Muestra la última palabra capturada en caso de existir.
 
 ---
 
@@ -68,7 +69,7 @@ El propósito es facilitar la recopilación y organización de información (pal
   * r. = reflexivo
   * s. = sustantivo
   * tr. = transitivo
-  
+
 - **Descripción:** explicación detallada del término.
 
 4. Presionar **“Enviar”**.  
