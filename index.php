@@ -7,6 +7,11 @@ if (!file_exists($file)) {
     file_put_contents($file, json_encode([], JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 }
 
+// ======= Obtener último elemento =======
+$contenido = file_get_contents($file);
+$diccionario = json_decode($contenido, true);
+$ultimaPalabra = !empty($diccionario) ? end($diccionario) : null;
+
 // ======= Procesar formulario =======
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $palabra = trim($_POST["palabra"]);
@@ -32,6 +37,9 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
         // Guardar JSON actualizado
         file_put_contents($file, json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+        
+        // Actualizar la última palabra después de guardar
+        $ultimaPalabra = $nuevo;
 
         $mensaje = "✅ Registro guardado correctamente.";
     } else {
@@ -51,6 +59,15 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
     <div style="max-width: 600px; margin: 40px auto; background-color: #ffffff; padding: 30px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border: 1px solid #d3d3d3;">
         <h2 style="text-align: center; color: #1c2e4a; margin-bottom: 25px;">Registro de términos del diccionario</h2>
+
+        <?php if ($ultimaPalabra): ?>
+            <div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px; border: 1px solid #e9ecef;">
+                <h3 style="color: #1c2e4a; margin-top: 0; margin-bottom: 10px; font-size: 16px;">Última palabra agregada:</h3>
+                <p style="margin: 5px 0;"><strong>Palabra:</strong> <?php echo htmlspecialchars($ultimaPalabra['palabra']); ?></p>
+                <p style="margin: 5px 0;"><strong>Abreviatura:</strong> <?php echo htmlspecialchars($ultimaPalabra['abreviatura']); ?></p>
+                <p style="margin: 5px 0;"><strong>Descripción:</strong> <?php echo htmlspecialchars($ultimaPalabra['descripcion']); ?></p>
+            </div>
+        <?php endif; ?>
 
         <?php if (isset($mensaje)): ?>
             <p style="text-align:center; font-weight: bold; color: <?php echo (strpos($mensaje, '✅') !== false) ? '#2e7d32' : '#c62828'; ?>;">
@@ -95,5 +112,12 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             }
         }
     </style>
+
+    <script>
+        // Poner foco en el campo de palabra al cargar la página
+        window.onload = function() {
+            document.getElementById('palabra').focus();
+        }
+    </script>
 </body>
 </html>

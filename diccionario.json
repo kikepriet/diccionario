@@ -18,5 +18,90 @@
         "palabra": "abalanzar",
         "abreviatura": "r.",
         "descripcion": "Arrojarse."
+    },
+    {
+        "palabra": "abandonar",
+        "abreviatura": "tr.",
+        "descripcion": "Dejar desamparado.\/\/Desistir, renunciar."
+    },
+    {
+        "palabra": "abanico",
+        "abreviatura": "m.",
+        "descripcion": "Aparato para agitar el aire."
+    },
+    {
+        "palabra": "abaratar",
+        "abreviatura": "intr. y r.",
+        "descripcion": "Bajar el precio."
+    },
+    {
+        "palabra": "abaratar",
+        "abreviatura": "intr. y r.",
+        "descripcion": "Bajar el precio."
+    },
+    {
+        "palabra": "abarcar",
+        "abreviatura": "tr. fig.",
+        "descripcion": "Acaparar.\/\/Alcanzar con la vista."
+    },
+    {
+        "palabra": "abarrotes",
+        "abreviatura": "m. pl.",
+        "descripcion": "Artículos de comercio, prinicipalmente comestibles."
+    },
+    {
+        "palabra": "abastecer",
+        "abreviatura": "tr. y r.",
+        "descripcion": "Proveer."
+    },
+    {
+        "palabra": "abatir",
+        "abreviatura": "tr.",
+        "descripcion": "Derribar."
+    },
+    {
+        "palabra": "abdicar",
+        "abreviatura": "tr.",
+        "descripcion": "Renunciar."
+    },
+    {
+        "palabra": "abdomen",
+        "abreviatura": "m.",
+        "descripcion": "Vientre."
+    },
+    {
+        "palabra": "abecedario",
+        "abreviatura": "m.",
+        "descripcion": "Serie ordenada de las letras de un idioma."
+    },
+    {
+        "palabra": "abedul",
+        "abreviatura": "m.",
+        "descripcion": "Árbol de corteza plateada."
+    },
+    {
+        "palabra": "abeja",
+        "abreviatura": "f.",
+        "descripcion": "Insecto que fabrica miel y otra cera."
+    },
+    {
+        "palabra": "abejorro",
+        "abreviatura": "m.",
+        "descripcion": "Insecto zumbador."
+    },
+    {
+        "palabra": "abertura",
+        "abreviatura": "f.",
+        "descripcion": "Agujero, grieta."
+    },
+    {
+        "palabra": "abeto",
+        "abreviatura": "m.",
+        "descripcion": "Árbol conífero del que se extrae la trementina."
+    },
+    {
+        "palabra": "abierto, ta",
+        "abreviatura": "p. p.",
+        "descripcion": "de abrir.\/\/adj. Llano."
     }
 ]
