@@ -1,107 +1,252 @@
 [
     {
-        "palabra": "ábaco",
+        "palabra": "ábaco.",
         "abreviatura": "m.",
         "descripcion": "Aparato que sirve para contar."
     },
     {
-        "palabra": "abad",
+        "palabra": "abad.",
         "abreviatura": "m.",
         "descripcion": "Superior de un monasterio"
     },
     {
-        "palabra": "abajo",
+        "palabra": "abajo.",
         "abreviatura": "adv.",
         "descripcion": "en la parte inferior."
     },
     {
-        "palabra": "abalanzar",
+        "palabra": "abalanzar.",
         "abreviatura": "r.",
         "descripcion": "Arrojarse."
     },
     {
-        "palabra": "abandonar",
+        "palabra": "abandonar.",
         "abreviatura": "tr.",
         "descripcion": "Dejar desamparado.\/\/Desistir, renunciar."
     },
     {
-        "palabra": "abanico",
+        "palabra": "abanico.",
         "abreviatura": "m.",
         "descripcion": "Aparato para agitar el aire."
     },
     {
-        "palabra": "abaratar",
+        "palabra": "abaratar.",
         "abreviatura": "intr. y r.",
         "descripcion": "Bajar el precio."
     },
     {
-        "palabra": "abaratar",
+        "palabra": "abaratar.",
         "abreviatura": "intr. y r.",
         "descripcion": "Bajar el precio."
     },
     {
-        "palabra": "abarcar",
+        "palabra": "abarcar.",
         "abreviatura": "tr. fig.",
         "descripcion": "Acaparar.\/\/Alcanzar con la vista."
     },
     {
-        "palabra": "abarrotes",
+        "palabra": "abarrotes.",
         "abreviatura": "m. pl.",
         "descripcion": "Artículos de comercio, prinicipalmente comestibles."
     },
     {
-        "palabra": "abastecer",
+        "palabra": "abastecer.",
         "abreviatura": "tr. y r.",
         "descripcion": "Proveer."
     },
     {
-        "palabra": "abatir",
+        "palabra": "abatir.",
         "abreviatura": "tr.",
         "descripcion": "Derribar."
     },
     {
-        "palabra": "abdicar",
+        "palabra": "abdicar.",
         "abreviatura": "tr.",
         "descripcion": "Renunciar."
     },
     {
-        "palabra": "abdomen",
+        "palabra": "abdomen.",
         "abreviatura": "m.",
         "descripcion": "Vientre."
     },
     {
-        "palabra": "abecedario",
+        "palabra": "abecedario.",
         "abreviatura": "m.",
         "descripcion": "Serie ordenada de las letras de un idioma."
     },
     {
-        "palabra": "abedul",
+        "palabra": "abedul.",
         "abreviatura": "m.",
         "descripcion": "Árbol de corteza plateada."
     },
     {
-        "palabra": "abeja",
+        "palabra": "abeja.",
         "abreviatura": "f.",
         "descripcion": "Insecto que fabrica miel y otra cera."
     },
     {
-        "palabra": "abejorro",
+        "palabra": "abejorro.",
         "abreviatura": "m.",
         "descripcion": "Insecto zumbador."
     },
     {
-        "palabra": "abertura",
+        "palabra": "abertura.",
         "abreviatura": "f.",
         "descripcion": "Agujero, grieta."
     },
     {
-        "palabra": "abeto",
+        "palabra": "abeto.",
         "abreviatura": "m.",
         "descripcion": "Árbol conífero del que se extrae la trementina."
     },
     {
-        "palabra": "abierto, ta",
+        "palabra": "abierto, ta.",
         "abreviatura": "p. p.",
         "descripcion": "de abrir.\/\/adj. Llano."
+    },
+    {
+        "palabra": "abigarrado, da.",
+        "abreviatura": "adj.",
+        "descripcion": "De varios colores mal combinados."
+    },
+    {
+        "palabra": "abigeato.",
+        "abreviatura": "m.",
+        "descripcion": "Hurto de ganado."
+    },
+    {
+        "palabra": "abigeo.",
+        "abreviatura": "m.",
+        "descripcion": "Ladrón de ganado."
+    },
+    {
+        "palabra": "abismo.",
+        "abreviatura": "m.",
+        "descripcion": "Profundidad grande."
+    },
+    {
+        "palabra": "abjurar.",
+        "abreviatura": "tr.",
+        "descripcion": "Renunciar a una religión."
+    },
+    {
+        "palabra": "ablandar.",
+        "abreviatura": "tr.",
+        "descripcion": "Suavizar."
+    },
+    {
+        "palabra": "ablución.",
+        "abreviatura": "f.",
+        "descripcion": "Lavatorio."
+    },
+    {
+        "palabra": "abochornar.",
+        "abreviatura": "tr. y r.",
+        "descripcion": "Sonrojar."
+    },
+    {
+        "palabra": "abogado, da.",
+        "abreviatura": "m. y f.",
+        "descripcion": "Defensor."
+    },
+    {
+        "palabra": "abolengo.",
+        "abreviatura": "m.",
+        "descripcion": "Asendencia, linaje, raza."
+    },
+    {
+        "palabra": "abolir.",
+        "abreviatura": "tr.",
+        "descripcion": "Derogar, anular."
+    },
+    {
+        "palabra": "abominar.",
+        "abreviatura": "tr. e intr.",
+        "descripcion": "Condenar y aborrecer."
+    },
+    {
+        "palabra": "abonar.",
+        "abreviatura": "tr.",
+        "descripcion": "Fertilizar la tierra.\/\/Acreditar a cuenta."
+    },
+    {
+        "palabra": "abono.",
+        "abreviatura": "m.",
+        "descripcion": "Pago parcial de una compra a plazos.\/\/Fertilizante."
+    },
+    {
+        "palabra": "abordar.",
+        "abreviatura": "tr. e intr.",
+        "descripcion": "Acercarse a alguien para hablarle."
+    },
+    {
+        "palabra": "aborigen.",
+        "abreviatura": "adj.",
+        "descripcion": "Nativo de un lugar."
+    },
+    {
+        "palabra": "aborrecer.",
+        "abreviatura": "tr.",
+        "descripcion": "Odiar, detestar."
+    },
+    {
+        "palabra": "abortar.",
+        "abreviatura": "intr.",
+        "descripcion": "Parir antes de tiempo.\/\/Fracasar algún proyecto."
+    },
+    {
+        "palabra": "aborto.",
+        "abreviatura": "m.",
+        "descripcion": "Parto prematuro."
+    },
+    {
+        "palabra": "abotonar.",
+        "abreviatura": "r.",
+        "descripcion": "Abrocharse los botones."
+    },
+    {
+        "palabra": "abovedado, da.",
+        "abreviatura": "adj.",
+        "descripcion": "De forma de bóveda."
+    },
+    {
+        "palabra": "abrasar.",
+        "abreviatura": "tr. y r.",
+        "descripcion": "Quemar.\/\/Calentar demasiado."
+    },
+    {
+        "palabra": "abrasión.",
+        "abreviatura": "f.",
+        "descripcion": "Desgaste por rozamiento."
+    },
+    {
+        "palabra": "abrasivo.",
+        "abreviatura": "m.",
+        "descripcion": "Producto que sirve para desgastar."
+    },
+    {
+        "palabra": "abrazadera.",
+        "abreviatura": "f.",
+        "descripcion": "Pieza para ceñir."
+    },
+    {
+        "palabra": "abrazar.",
+        "abreviatura": "tr. y r.",
+        "descripcion": "Ceñir con los brazos."
+    },
+    {
+        "palabra": "abrazo.",
+        "abreviatura": "m.",
+        "descripcion": "Acción de abrazar."
+    },
+    {
+        "palabra": "abrevadero.",
+        "abreviatura": "m.",
+        "descripcion": "Sitio donde bebe el ganado."
+    },
+    {
+        "palabra": "abreviar.",
+        "abreviatura": "tr.",
+        "descripcion": "Acortar."
     }
 ]
