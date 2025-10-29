@@ -42,6 +42,33 @@ El propósito es facilitar la recopilación y organización de información (pal
 - **Palabra:** término principal.  
 - **Abreviatura:** 
   * adj. = adjetivo
+  * adv. = adverbio
+  * amb. = ambiguo
+  * amer. = americanismo
+  * anat. = anatomía
+  * art. = artículo
+  * com. = común
+  * conj. = conjunción
+  * cop. = copulativo
+  * dem. = demostrativo
+  * etc. = etcétera
+  * f. = femenino
+  * fam. = familiar
+  * fig. = figurado
+  * indet. = indeterminado
+  * intr. = intransitivo
+  * interj. = interjección
+  * m. = masculino
+  * n. = nombe
+  * p.p. = participio pasado
+  * prep. = preposición
+  * pl. = plural
+  * pron. = pronombre
+  * quím. = química
+  * r. = reflexivo
+  * s. = sustantivo
+  * tr. = transitivo
+  
 - **Descripción:** explicación detallada del término.
 
 4. Presionar **“Enviar”**.  
