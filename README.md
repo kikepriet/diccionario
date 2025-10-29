@@ -82,13 +82,13 @@ El sistema guardará los datos en el archivo `diccionario.json`.
 ```json
 [
  {
-     "palabra": "CPU",
-     "abreviatura": "Unidad Central de Procesamiento",
-     "descripcion": "Parte del computador que interpreta y ejecuta instrucciones."
+     "palabra": "ábaco",
+     "abreviatura": "m.",
+     "descripcion": "Aparato que sirve para contar."
  },
  {
-     "palabra": "RAM",
-     "abreviatura": "Memoria de acceso aleatorio",
-     "descripcion": "Memoria temporal utilizada por el sistema."
+     "palabra": "abad",
+     "abreviatura": "m.",
+     "descripcion": "Superior de un monasterio."
  }
 ]
