@@ -40,7 +40,8 @@ El propósito es facilitar la recopilación y organización de información (pal
 
 3. Completar los campos del formulario:
 - **Palabra:** término principal.  
-- **Abreviatura:** forma corta o sigla.  
+- **Abreviatura:** 
+  * adj. = adjetivo
 - **Descripción:** explicación detallada del término.
 
 4. Presionar **“Enviar”**.  
