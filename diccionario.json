@@ -248,5 +248,90 @@
         "palabra": "abreviar.",
         "abreviatura": "tr.",
         "descripcion": "Acortar."
+    },
+    {
+        "palabra": "abreviatura.",
+        "abreviatura": "f.",
+        "descripcion": "Representación de una palabra con supresión de letras."
+    },
+    {
+        "palabra": "abrigar.",
+        "abreviatura": "tr. y r.",
+        "descripcion": "Resguardar de frio."
+    },
+    {
+        "palabra": "abrigo.",
+        "abreviatura": "m.",
+        "descripcion": "Defensa contra el frío, el viento, etc.\/\/Prenda externa de vestir."
+    },
+    {
+        "palabra": "abril.",
+        "abreviatura": "s.",
+        "descripcion": "Cuarto mes del año."
+    },
+    {
+        "palabra": "abrir.",
+        "abreviatura": "tr. y r.",
+        "descripcion": "Dar paso en lo cerrado.\/\/Inaugurar.\/\/Destapar."
+    },
+    {
+        "palabra": "abrochar.",
+        "abreviatura": "tr.",
+        "descripcion": "Asegurar con botones o broches."
+    },
+    {
+        "palabra": "abrogar.",
+        "abreviatura": "tr.",
+        "descripcion": "Abolir, anular."
+    },
+    {
+        "palabra": "abrojo.",
+        "abreviatura": "m.",
+        "descripcion": "Planta de fruto espinoso."
+    },
+    {
+        "palabra": "abrumar.",
+        "abreviatura": "tr y r.",
+        "descripcion": "Agobiar.\/\/Causar pena o cansancio."
+    },
+    {
+        "palabra": "abrupto, ta.",
+        "abreviatura": "adj.",
+        "descripcion": "Escarpado."
+    },
+    {
+        "palabra": "absceso.",
+        "abreviatura": "m.",
+        "descripcion": "Tumor."
+    },
+    {
+        "palabra": "absolución.",
+        "abreviatura": "f.",
+        "descripcion": "Acción de absolver."
+    },
+    {
+        "palabra": "absoluto, ta.",
+        "abreviatura": "adj.",
+        "descripcion": "Independiente."
+    },
+    {
+        "palabra": "absolver.",
+        "abreviatura": "tr.",
+        "descripcion": "Liberar de algún cargo o acusación.\/\/Perdonar."
+    },
+    {
+        "palabra": "absorber.",
+        "abreviatura": "tr.",
+        "descripcion": "Sorber con fuerza.\/\/Consumir por completo."
+    },
+    {
+        "palabra": "absorto, ta.",
+        "abreviatura": "adj.",
+        "descripcion": "Admirado, pasmado."
+    },
+    {
+        "palabra": "abstemio, mia.",
+        "abreviatura": "adj.",
+        "descripcion": "Que no toma bebidas embriagantes."
     }
 ]
