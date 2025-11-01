@@ -333,5 +333,100 @@
         "palabra": "abstemio, mia.",
         "abreviatura": "adj.",
         "descripcion": "Que no toma bebidas embriagantes."
+    },
+    {
+        "palabra": "abstención.",
+        "abreviatura": "f.",
+        "descripcion": "Acción del que se abstiene."
+    },
+    {
+        "palabra": "abstener.",
+        "abreviatura": "r.",
+        "descripcion": "Impedir hacer algo."
+    },
+    {
+        "palabra": "abstinencia.",
+        "abreviatura": "f.",
+        "descripcion": "Acción de abstenerse."
+    },
+    {
+        "palabra": "abstenerse.",
+        "abreviatura": "r.",
+        "descripcion": "Privarse de algo; no intervenir."
+    },
+    {
+        "palabra": "abstracción.",
+        "abreviatura": "f.",
+        "descripcion": "Reflexión profunda."
+    },
+    {
+        "palabra": "abstracto, ta.",
+        "abreviatura": "adj.",
+        "descripcion": "No concreto."
+    },
+    {
+        "palabra": "abstraer.",
+        "abreviatura": "r.",
+        "descripcion": "Enajenarse."
+    },
+    {
+        "palabra": "absuelto, ta.",
+        "abreviatura": "p.p.",
+        "descripcion": "de absolver.\/\/Exonerado."
+    },
+    {
+        "palabra": "absurdo, da.",
+        "abreviatura": "adj.",
+        "descripcion": "Opuesto a la razón.\/\/m. Disparatado."
+    },
+    {
+        "palabra": "abuchear.",
+        "abreviatura": "tr.",
+        "descripcion": "Protestar ruidosamente."
+    },
+    {
+        "palabra": "abuela.",
+        "abreviatura": "f.",
+        "descripcion": "Madre del padre o de la madre."
+    },
+    {
+        "palabra": "abuelo.",
+        "abreviatura": "m.",
+        "descripcion": "Padre de la madre o del padre."
+    },
+    {
+        "palabra": "abulia.",
+        "abreviatura": "f.",
+        "descripcion": "Falta de voluntad."
+    },
+    {
+        "palabra": "abultado, da.",
+        "abreviatura": "adj.",
+        "descripcion": "Voluminiso."
+    },
+    {
+        "palabra": "abultar.",
+        "abreviatura": "intr.",
+        "descripcion": "Hacer bulto.\/\/fig. Exagerar."
+    },
+    {
+        "palabra": "abundancia.",
+        "abreviatura": "f.",
+        "descripcion": "Gran cantidad de algo."
+    },
+    {
+        "palabra": "abundante.",
+        "abreviatura": "adj.",
+        "descripcion": "Que abunda."
+    },
+    {
+        "palabra": "abundar.",
+        "abreviatura": "intr.",
+        "descripcion": "Haber gran cantidad de algo.\/\/Profundizar en una opinión."
+    },
+    {
+        "palabra": "aburrimiento.",
+        "abreviatura": "m.",
+        "descripcion": "Fastidio, tedio."
     }
 ]
